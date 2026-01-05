@@ -46,11 +46,6 @@ body {
     overflow-y: auto;
     box-sizing: border-box;
 }
-
-/* .quote-area::-webkit-scrollbar {
-    display: none;
-} */
-
 .main .quote-area #quote {
     font-size: 1.6rem;
     font-weight: 600;
